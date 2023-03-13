@@ -1,0 +1,1 @@
+print ("shivu is amazing")
